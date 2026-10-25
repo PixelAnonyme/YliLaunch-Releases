@@ -1,8 +1,8 @@
 {
-  "season": "0",
-  "seasonLabel": "Saison 0 — Entraînement",
-  "profileId": "ylilaunch-saison-0",
-  "profileName": "YliLaunch Saison 0",
+  "season": "1",
+  "seasonLabel": "Saison 1",
+  "profileId": "ylilaunch-saison-1",
+  "profileName": "YliLaunch Saison 1",
   "javaArgs": "-Xmx8G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
   "github": {
     "configUrl": "https://raw.githubusercontent.com/PixelAnonyme/YliLaunch-Releases/main/config.json"
@@ -10,13 +10,13 @@
   "packs": {
     "versions": {
       "fileName": "versions.rar",
-      "downloadUrl": "https://www.dropbox.com/scl/fi/kubovqgzhos99qfjffeyw/versions.rar?rlkey=2fsqnmnlitpq9jf7mlxorhayy&st=i85d686k&dl=1",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/dzo1cx0eaeps4il9ilr83/versions.rar?rlkey=epg049e1l6tuma0jk92x6mp4d&st=5gfo9k93&dl=1",
       "target": "versions",
       "mode": "merge"
     },
     "content": {
-      "fileName": "ressource-s0.rar",
-      "downloadUrl": "https://www.dropbox.com/scl/fi/9ohj85orgmm7uv30ss2e7/ressource-s0.rar?rlkey=aaiqmac0vhhop9dz9u2jjo5tp&st=m367o264&dl=1",
+      "fileName": "ressource-s1.rar",
+      "downloadUrl": "https://www.dropbox.com/scl/fi/0luo723x1qamp2kuvtnj6/ressource-s1.rar?rlkey=g0mrp234frecfmfzqap5m7bxf&st=th2s3wkr&dl=1",
       "target": ".",
       "mode": "merge"
     }
